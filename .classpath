@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/hibernate-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/hibernate3-client.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/dom4j-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/org.apache.commons.collections.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/ehcache-1.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/com.springsource.net.sf.ehcache-1.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/javax.transaction.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/backport-util-concurrent-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/C Drive Backup/hibernatejars/antlr.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
